@@ -24,6 +24,8 @@ Hi, I'm Muhammad Shahzaib, And undergradute Software Engineering student [@UIT](
 - 📫 How to reach me: mohammadshahzaib2028@gmail.com;
 - 📝[Resume](https://www.linkedin.com/in/mohammad-shahzaib-8325b3178/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACoXT-YBjv-myrll_cTQf0kWXXha7QG1KLg,1603295670671)/)
 
+<img align="left" alt="Shahzaib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahzaib2028&show_icons=true&hide_border=true" />
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
