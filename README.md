@@ -19,7 +19,7 @@ Hi, I'm Muhammad Shahzaib, And undergradute Software Engineering student [@UIT](
 
 - 👨🏽‍💻 I’m currently working on RISC-V, Python Development, Flutter;
 - 🌱 I’m currently learning new things like app development, machine learning;
-- 💬 2020 Goals: Contribute more to Open Source projects
+- 💬 2021 Goals: Contribute more to Open Source projects
 - ⚡️ Fun-Fact: other than programming, I love to play and watch cricket
 - 📫 How to reach me: mohammadshahzaib2028@gmail.com;
 - 📝[Resume](https://www.linkedin.com/in/mohammad-shahzaib-8325b3178/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACoXT-YBjv-myrll_cTQf0kWXXha7QG1KLg,1603295670671)/)
