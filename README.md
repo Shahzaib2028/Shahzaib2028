@@ -14,6 +14,8 @@
 <br />
 
 Hi, I'm Muhammad Shahzaib, And undergradute Software Engineering student [@UIT](https://www.uit.edu/) with Software Development skills 🚀 from Pakistan, currently I am Freelancer 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/shahid2028), Internee 👨🏽‍💼[@MERL-UIT](https://github.com/merledu) with that I'm a core team lead of [@pytroops](https://www.youtube.com/pytroops) community and a Student Memeber 🙍🏽‍♂️ [@IEEE](https://www.ieee.org/).
+
+ <img width="40%" src="images/programming.gif" align="right" />
   
 **Talking about Personal Stuffs:**
 
