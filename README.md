@@ -49,3 +49,11 @@ Hi, I'm Muhammad Shahzaib, And undergradute Software Engineering student [@UIT](
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+
+## &#x1f4c8; GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaib2028&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib2028&count_private=true&theme=radical" width="40%">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaib2028&theme=radical"  width=60% />
+
