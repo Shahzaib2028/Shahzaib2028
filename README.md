@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Muhammad Shahzaib, gradute in Software Engineering in 2022 [@UIT](https://www.uit.edu/) with Software Development skills 🚀 from Pakistan, currently I am woring as a backend developer at Aeroglobe <- Quality Aviation 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/shahid2028), Ex-Research Associate 👨🏽‍💼[@MERL-UIT](https://github.com/merledu) with that I'm a core team lead of [@pytroops](https://www.youtube.com/pytroops) community and a Student Memeber 🙍🏽‍♂️ [@IEEE](https://www.ieee.org/).
+Hi, I'm Muhammad Shahzaib, gradute in Software Engineering in 2022 [@UIT](https://www.uit.edu/) with Software Development skills 🚀 from Pakistan, currently I am woring as a backend developer at Aeroglobe <- Quality Aviation, Ex-Research Associate 👨🏽‍💼[@MERL-UIT](https://github.com/merledu) with that I'm a core team lead of [@pytroops](https://www.youtube.com/pytroops) community and a Student Memeber 🙍🏽‍♂️ [@IEEE](https://www.ieee.org/).
 
  <img width="40%" src="image/programming.gif" align="right" />
   
